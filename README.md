@@ -44,3 +44,4 @@ if [ "$power" -lt 20 ]
 
 ## Versioning
 Meter adheres to Semantic Versioning 2.0.0. Learn more [here](https://semver.org/).
+The current version of meter is `0.1.0`.
